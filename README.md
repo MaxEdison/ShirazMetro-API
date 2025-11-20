@@ -1,7 +1,18 @@
 # 🚇 ShirazMetro-API
 Files and configurations for deploying ShirazMetro API on CloudFlare Worker
-
 available on 👉 [https://api.shiraz-metro.workers.dev/](https://api.shiraz-metro.workers.dev/)
+
+
+## 🚨 Repository Archived & Migrated
+
+This project — **ShirazMetro-API** — has been **archived**.
+
+All ongoing and future development has been **migrated** to the  
+**`cf-workers` branch of the [`ShirazMetro`](https://github.com/MaxEdison/ShirazMetro) repository.**
+
+Please use the new location for any issues, updates, or contributions.
+
+---
 
 ## 👨‍💻 Main Developer
 
